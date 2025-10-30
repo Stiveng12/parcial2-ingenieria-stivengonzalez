@@ -1,0 +1,10 @@
+Durante la fusión de la rama hotfix-actualizacion en main, 
+se generó un conflicto en el archivo index.html debido a 
+que ambas ramas modificaron el título.
+
+Se resolvió el conflicto combinando ambas versiones en una 
+sola línea:
+<title>Productos Ecolarekt - Lista de Productos 
+Frescos</title>
+
+Luego se hizo commit del archivo corregido.
