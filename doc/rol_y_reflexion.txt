@@ -1,0 +1,38 @@
+1. Rol cumplido: Developer
+
+Durante el desarrollo del Sprint 1 del proyecto EcoMarket, 
+cumplí el rol de Developer, específicamente como desarrollador 
+frontend. Mi responsabilidad principal fue implementar la 
+interfaz que permite a los compradores visualizar la lista 
+de productos disponibles, incluyendo nombre, precio, 
+
+categoría e insignias de cultivo sostenible. También 
+participé en la creación del tablero SCRUM y la planificación 
+del Sprint, asegurando que las tareas técnicas estuvieran 
+bien definidas y distribuidas.
+
+Como Developer, me enfoqué en transformar las historias de 
+usuario en funcionalidades reales, utilizando HTML, 
+ y lógica de conexión con APIs. Este rol requiere atención 
+ al detalle, trabajo colaborativo y compromiso con los 
+ objetivos del Sprint.
+
+
+2. Reflexión sobre SCRUM
+
+SCRUM ayuda significativamente a mejorar la organización 
+y productividad del proyecto al dividir el trabajo en 
+ciclos cortos y manejables llamados Sprints. Cada Sprint 
+tiene objetivos claros, tareas definidas y roles 
+específicos, lo que permite al equipo enfocarse en 
+entregar valor de forma continua.
+
+Gracias al uso de historias de usuario, tableros 
+SCRUM y reuniones de planificación, se facilita la 
+comunicación entre los miembros del equipo y se reduce 
+la incertidumbre. Además, el seguimiento constante del 
+progreso permite detectar bloqueos a tiempo y ajustar 
+el rumbo si es necesario. En el caso de EcoMarket, 
+SCRUM permitió organizar el desarrollo de funcionalidades 
+clave desde el inicio, asegurando que el producto 
+evolucione de forma ordenada y eficiente.

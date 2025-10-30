@@ -1,0 +1,33 @@
+Objetivo del Sprint:
+Implementar la visualización de productos disponibles en la 
+tienda EcoMarket, permitiendo a los compradores ver nombre, 
+precio, categoría e imagen de cada producto, con opciones de 
+filtrado y ordenamiento.
+
+Historias seleccionadas para el Sprint 1:
+1. Como comprador, quiero poder visualizar una lista de 
+productos disponibles con su nombre, precio y categoría, 
+para poder elegir fácilmente qué comprar.
+2. Como comprador, quiero ver una insignia de 
+“cultivo sostenible” en productos certificados, 
+para tomar decisiones más responsables con el medio 
+ambiente.
+3. Como comprador, quiero poder ordenar los productos 
+por precio, para comparar fácilmente las opciones más 
+económicas.
+
+Tareas específicas:
+- Diseñar el componente de lista de productos (HTML/CSS).
+- Implementar lógica para mostrar nombre, precio y categoría 
+desde el backend.
+- Agregar insignia visual para productos con certificación 
+de cultivo sostenible.
+- Crear lógica para ordenar productos por precio 
+(ascendente y descendente).
+- Conectar con API para obtener productos y sus atributos.
+- Realizar pruebas de visualización en dispositivos móviles.
+- Validar que el ordenamiento se mantenga al cambiar de 
+categoría.
+
+Duración estimada del Sprint:
+10 días

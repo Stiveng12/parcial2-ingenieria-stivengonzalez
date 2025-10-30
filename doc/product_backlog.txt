@@ -1,0 +1,48 @@
+1. Historia de usuario principal (Sprint 1)
+Descripción: Como comprador, quiero poder visualizar una lista
+de productos disponibles con su nombre, precio y categoría, 
+para poder elegir fácilmente qué comprar.
+Criterios de aceptación:
+
+- La lista muestra al menos nombre, precio y categoría de 
+producto.
+- La información se carga correctamente desde el backend.
+- El diseño es claro y accesible en dispositivos móviles.
+Prioridad: Alta
+
+2. Historia 1
+Descripción: Como comprador, quiero recibir una alerta cuando 
+un producto que sigo cambia de precio, para aprovechar 
+ofertas sin estar revisando constantemente.
+Criterios de aceptación:
+- El usuario puede marcar productos como “seguidos”.
+- Se envía una notificación cuando el precio baja o sube.
+- La alerta incluye el nuevo precio y un enlace directo al 
+producto.
+Prioridad: Alta
+
+3. Historia 2
+Descripción: Como comprador, quiero ver una insignia de 
+“cultivo sostenible” en productos certificados, para tomar 
+decisiones más responsables con el medio ambiente.
+Criterios de aceptación:
+- Los productos certificados muestran una insignia verde 
+con el texto “Cultivo Sostenible”.
+- La insignia aparece tanto en la lista como en la vista 
+detallada del producto.
+- El sistema permite filtrar por productos sostenibles.
+Prioridad: Media
+
+4. Historia 3
+Descripción: Como comprador, quiero poder enviar una pregunta 
+directamente al productor sobre un producto, para aclarar 
+dudas antes de comprar.
+
+Criterios de aceptación:
+
+- Cada producto tiene un botón “Preguntar al productor”.
+- El sistema permite enviar mensajes cortos que llegan al 
+perfil del productor.
+- El comprador recibe una notificación cuando el productor 
+responde.
+Prioridad: Media

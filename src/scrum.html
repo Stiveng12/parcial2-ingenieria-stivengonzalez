@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Tablero SCRUM - EcoMarket</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .board {
+      display: flex;
+      justify-content: space-between;
+    }
+    .column {
+      background-color: #ffffff;
+      border: 1px solid #ccc;
+      width: 30%;
+      padding: 10px;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+    }
+    .column h2 {
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 5px;
+    }
+    .task {
+      background-color: #d0f0c0;
+      margin: 10px 0;
+      padding: 8px;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Simulación de Tablero SCRUM - Sprint 1 EcoMarket</h1>
+  <div class="board">
+    <div class="column">
+      <h2>To Do</h2>
+      <div class="task">Diseñar componente de lista de productos</div>
+      <div class="task">Agregar insignia de cultivo sostenible</div>
+    </div>
+    <div class="column">
+      <h2>In Progress</h2>
+      <div class="task">Conectar con API de productos</div>
+      <div class="task">Crear lógica para ordenar productos por precio</div>
+    </div>
+    <div class="column">
+      <h2>Done</h2>
+      <div class="task">Definir historias de usuario</div>
+      <div class="task">Crear planificación de Sprint 1</div>
+    </div>
+  </div>
+</body>
+</html>
