@@ -1,0 +1,15 @@
+Propuesta de filtrado por categoría:
+
+Para implementar un filtro de búsqueda por categoría en 
+EcoMarket, se puede usar un menú desplegable (select) 
+en el frontend que permita al usuario elegir una categoría 
+específica (frutas, verduras, granos, etc.).
+
+Al seleccionar una categoría, se enviaría una 
+solicitud a la API con un parámetro de filtro, 
+por ejemplo:
+GET /productos?categoria=frutas
+
+La API respondería con los productos que coincidan 
+con esa categoría, y el frontend actualizaría la lista 
+mostrada dinámicamente.
